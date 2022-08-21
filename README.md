@@ -25,7 +25,7 @@
 ![carousel](https://user-images.githubusercontent.com/101952500/185003475-e043c7f5-206d-4689-977e-5d17995bfb20.jpg)
 
 ## Description
-The carousel was created as a training exercise to practice DOM manipulation and implement functionality using JavaScript. It has then expanded to help promote various artists from [Unpsplash](https://unsplash.com/). Each image will have their own dedicated section with links to their project.
+The Carousel was created as a training exercise to practice DOM manipulation and implement functionality using JavaScript. It has then expanded to help promote various artists from [Unpsplash](https://unsplash.com/). Each image will have their own dedicated section with links to their project.
 
 ## How to use
 * Click the left arrow to view the previous image.
